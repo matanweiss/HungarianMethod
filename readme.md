@@ -1,6 +1,7 @@
 # Hungarian Algorithm for Maximum Matching in a Directed Unweighted Graph
 
-This repository contains a Python implementation of the Hungarian algorithm for finding the maximum matching in a directed unweighted graph.
+This repository contains a Python implementation of the Hungarian algorithm for finding the maximum matching in a directed unweighted graph. 
+ ![method.jpg](method.jpg)
 
 ## Table of Contents
 
